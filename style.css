@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    height: 30vh;
+    background-color: aqua;
+}
+form{
+    display: flex;
+    width: 20%;
+    gap: 10px;
+}
+button{
+    color: pink;
+    background-color: violet;
+}
